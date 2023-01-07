@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Semih Buğra Sezer</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
+<a href="https://app.daily.dev/semihbugrasezer"><img src="https://api.daily.dev/devcards/f0231abf59ae4b43b9b622e6be0c13bd.png?r=odq" width="400" alt="Semih Buğra Sezer's Dev Card"/></a>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semihbugrasezer&label=Profile%20views&color=0e75b6&style=flat" alt="semihbugrasezer" /> </p>
 
 - 🔭 I’m currently working on **Java**
@@ -18,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semihbugrasezer&show_icons=true&locale=en&layout=compact" alt="semihbugrasezer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semihbugrasezer&show_icons=true&locale=en" alt="semihbugrasezer" /></p>
-<a href="https://app.daily.dev/semihbugrasezer"><img src="https://api.daily.dev/devcards/f0231abf59ae4b43b9b622e6be0c13bd.png?r=odq" width="400" alt="Semih Buğra Sezer's Dev Card"/></a>
