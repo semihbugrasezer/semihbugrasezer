@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://app.daily.dev/semihbugrasezer"><img src="https://api.daily.dev/devcards/f0231abf59ae4b43b9b622e6be0c13bd.png?r=odq" width="400" alt="Semih Buğra Sezer's Dev Card"/></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=semihbugrasezer&label=Profile%20views&color=0e75b6&style=flat" alt="semihbugrasezer" /> </p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=semihbugrasezer&label=Profile%20views&color=0e75b6&style=flat" alt="semihbugrasezer" /> </p>
 
 - 🔭 I’m currently working on **Java**
 
